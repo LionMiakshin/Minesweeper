@@ -1,7 +1,7 @@
 import Cell from "./Cell";
 const Row = () => {
   return (
-    <td>
+    <tr>
       <Cell />
       <Cell />
       <Cell />
@@ -12,7 +12,7 @@ const Row = () => {
       <Cell />
       <Cell />
       <Cell />
-    </td>
+    </tr>
   );
 };
 export default Row;
