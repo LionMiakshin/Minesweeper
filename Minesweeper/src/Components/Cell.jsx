@@ -1,5 +1,6 @@
-import "./Cell.css"
+import "./Cell.css";
 
-const Cell = ()=>{
-    return <td></td>
-}
+const Cell = () => {
+  return <td></td>;
+};
+export default Cell;
